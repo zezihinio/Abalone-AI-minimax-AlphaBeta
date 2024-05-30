@@ -60,7 +60,7 @@ Abalone is a two-player strategy game where the objective is to push the opponen
 The AI uses the Minimax algorithm enhanced with alpha-beta pruning to optimize decision-making. 
 The `minimaxalphabeta`function Performs the minimax algorithm with alpha-beta pruning to find the optimal move for the current player. It return the evaluated score of the board state at the current depth.
 
-#### The `minimaxalphabeta function works as follows:
+#### The `minimaxalphabeta` function works as follows:
     - 1. If the game is over or the maximum depth is reached, return the evaluation of the board.
     - 2. If it's the maximizing player's turn:
         - Initialize the best evaluation to negative infinity.
