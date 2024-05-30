@@ -2,13 +2,6 @@
 
 This project implements the classic two-player board game Abalone using Python and Visual Studio Code. The game features an AI opponent powered by the Minimax algorithm with alpha-beta pruning optimization.
 
-## Table of Contents
-- [Installation](#installation)
-- [Gameplay](#gameplay)
-- [Features](#features)
-- [How to Play](#how-to-play)
-- [Algorithm Details](#algorithm-details)
-- [License](#license)
 
 ## Installation
 
